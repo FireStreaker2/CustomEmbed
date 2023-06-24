@@ -15,10 +15,10 @@ Base URL: ``custom-embed.firestreaker2.gq``
 > Note that while there are more embed options than just the ones listed above, there is not always a corresponding HTML meta tag for it, resulting in there being only a limited amount of options provided.
 
 # Examples
-Example 1:
+Example 1:  
 <img src="./examples/example1.png" />
 
-Example 2:
+Example 2:  
 <img src="./examples/example2.png" />
 
 # Selfhosting
