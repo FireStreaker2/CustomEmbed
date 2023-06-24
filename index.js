@@ -24,7 +24,6 @@ app.get("/embed", (req, res) => {
             <meta name="theme-color" content="#${color ? color : "000000"}">
             <meta property="og:image" content="${image ? image : ""}" />
             ${imageBig ? '<meta name="twitter:card" content="summary_large_image">' : "<!-- this image is small -->"}
-
         </head>
 
         <body>
